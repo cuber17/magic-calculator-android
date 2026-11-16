@@ -1,0 +1,1 @@
+# No custom shrinking rules; minification is disabled.\n
